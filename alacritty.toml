@@ -1,0 +1,9 @@
+[font]
+size = 7.0
+
+#Background opacity as a floating point number from _0.0_ to _1.0_. The value
+#_0.0_ is completely transparent and _1.0_ is opaque.
+
+#Default: _0.5_
+[window]
+opacity = 0.8
